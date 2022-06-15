@@ -7950,7 +7950,7 @@ end
 ----------------------------------------------------------------------------------------------------
 -- نهايه التفعيل
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or text == 'يا سورس' then 
-local Text = "*ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴏᴜʀᴄᴇ yousef\n\n*[ ✠ ┇  yousef ᴄʜᴀɴɴᴇʟ](http://https://t.me/LEDARQ)*\n\n*[ ✠ ┇  ɪɴғᴏ sᴏᴜʀᴄᴇ](http://https://t.me/LEDARQ)*\n\n*[ ✠ ┇  yousef ᴅᴇᴠᴇʟᴏᴘᴇʀ](http://t.me/L_U_2)*\n\n*[ ✠ ┇  ʙᴏᴛ yousef](http://https://t.me/LEDARQ)*\n*"
+local Text = "*ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴏᴜʀᴄᴇ ʟᴇᴀᴅᴇʀ\n\n*[ ✠ ┇  ʟᴇᴀᴅᴇʀ ᴄʜᴀɴɴᴇʟ](http://https://t.me/LEDARQ)*\n\n*[ ✠ ┇  ɪɴғᴏ sᴏᴜʀᴄᴇ](http://https://t.me/LEDARQ)*\n\n*[ ✠ ┇  ʟᴇᴀᴅᴇʀ ᴅᴇᴠᴇʟᴏᴘᴇʀ](http://t.me/L_U_2)*\n\n*[ ✠ ┇  ʙᴏᴛ ʟᴇᴀᴅᴇʀ](http://https://t.me/LEDARQ)*\n*"
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
